@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "P7HxPkdSP53xCUK6UAXDPJknmqibmhA9r2Ubsam28qI=",
+  "Source": "e-commerce",
+  "BasePath": "_content/e-commerce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "e-commerce\\wwwroot",
+      "Source": "e-commerce",
+      "ContentRoot": "F:\\Emad\\E-commerce\\backend\\e-commerce\\wwwroot\\",
+      "BasePath": "_content/e-commerce",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Emad\\E-commerce\\backend\\e-commerce\\wwwroot\\images\\img1.jpg",
+      "SourceId": "e-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Emad\\E-commerce\\backend\\e-commerce\\wwwroot\\",
+      "BasePath": "_content/e-commerce",
+      "RelativePath": "images/img1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img1.jpg"
+    }
+  ]
+}
